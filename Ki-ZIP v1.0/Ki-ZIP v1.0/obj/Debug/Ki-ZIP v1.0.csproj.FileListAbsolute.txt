@@ -1,0 +1,6 @@
+D:\Dropbox\Visual Studio 2012\Projects\Ki-ZIP v1.0\Ki-ZIP v1.0\obj\Debug\Ki-ZIP v1.0.csprojResolveAssemblyReference.cache
+D:\Dropbox\Visual Studio 2012\Projects\Ki-ZIP v1.0\Ki-ZIP v1.0\bin\Debug\Ki-ZIP v1.0.exe.config
+D:\Dropbox\Visual Studio 2012\Projects\Ki-ZIP v1.0\Ki-ZIP v1.0\bin\Debug\Ki-ZIP v1.0.exe
+D:\Dropbox\Visual Studio 2012\Projects\Ki-ZIP v1.0\Ki-ZIP v1.0\bin\Debug\Ki-ZIP v1.0.pdb
+D:\Dropbox\Visual Studio 2012\Projects\Ki-ZIP v1.0\Ki-ZIP v1.0\obj\Debug\Ki-ZIP v1.0.exe
+D:\Dropbox\Visual Studio 2012\Projects\Ki-ZIP v1.0\Ki-ZIP v1.0\obj\Debug\Ki-ZIP v1.0.pdb
